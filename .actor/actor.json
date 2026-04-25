@@ -1,10 +1,10 @@
 {
   "actorSpecification": 1,
   "buildTag": "latest",
-  "description": "Browser extension for saving OnlyFans videos, images, GIFs, and text posts with in-page overlays, bulk gallery scanning, and local-only downloads.",
+  "description": "Onlyfans Downloader helps you save videos, photos, and creator libraries for offline access. It is built for local-first downloading, organizes media by creator and media type, and keeps downloads on your device instead of routing them through third-party services.",
   "input": "./INPUT_SCHEMA.json",
   "name": "onlyfans-downloader",
   "readme": "../ACTOR.md",
-  "title": "OnlyFans Downloader",
+  "title": "Onlyfans Downloader",
   "version": "0.0"
 }
