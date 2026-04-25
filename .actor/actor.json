@@ -5,6 +5,6 @@
   "input": "./INPUT_SCHEMA.json",
   "name": "onlyfans-downloader",
   "readme": "../ACTOR.md",
-  "title": "Onlyfans Downloader",
+  "title": "OnlyFans Downloader Browser Extension",
   "version": "0.0"
 }
