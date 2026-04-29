@@ -1,4 +1,4 @@
-# OnlyFans Downloader Browser Extension
+# OnlyFans Downloader
 
 > Browser extension built specifically for saving OnlyFans content — videos, images, GIFs, and text posts — with in-page overlay buttons, bulk gallery scanning, and automatic MP4 conversion, all without leaving your browser.
 
