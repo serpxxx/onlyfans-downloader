@@ -1,10 +1,10 @@
 {
   "actorSpecification": 1,
   "buildTag": "latest",
-  "description": "Onlyfans Downloader helps you save videos, photos, and creator libraries for offline access. It is built for local-first downloading, organizes media by creator and media type, and keeps downloads on your device instead of routing them through third-party services.",
+  "description": "OnlyFans Downloader helps users save accessible OnlyFans content they own or have permission to download.",
   "input": "./INPUT_SCHEMA.json",
   "name": "onlyfans-downloader",
   "readme": "../ACTOR.md",
-  "title": "OnlyFans Downloader",
+  "title": "OnlyFans Video Downloader | How to Download OnlyFans Videos",
   "version": "0.0"
 }
